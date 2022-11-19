@@ -1,10 +1,10 @@
-##### This project is about the prediction of names, Version Date: 20th Oct 2022
+##### This project is about the prediction of names, Version Date: 18th Nove 2022
 
 #### By **Protus**
 
 ## Description
 
-This project picks the user’s birthday and calculates the day of the week they were born and then by gender outputs their Akan names which is a community in Ghana were kids are given names as per the day they were born.
+This a Delani studio project that displays what the studio does and also collects information from users.
 
 ## Setup/Installation Requirements
 
@@ -24,7 +24,7 @@ Languages used include HTML,JavaScript and CSS. I have used editor Visual Studio
 
 ## Support and contact details
 
-If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: prolink@gmail.com to make a contribution to the code or for any assistance on the app/project.
+If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: prolink7544@gmail.com to make a contribution to the code or for any assistance on the app/project.
 
 ## License
 
